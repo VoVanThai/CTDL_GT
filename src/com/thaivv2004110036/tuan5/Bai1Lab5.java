@@ -1,3 +1,8 @@
+package tuan5;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class Bai1Lab5 {
     public static void main(String[] args) {
         ArrayList<Double> arr = new ArrayList<Double>();

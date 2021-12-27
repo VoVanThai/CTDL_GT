@@ -1,3 +1,4 @@
+package kiemtragiuaki;
 import java.util.Scanner;
 
 public class Apple {
