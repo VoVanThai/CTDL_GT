@@ -1,3 +1,5 @@
+package com.thaivv2004110036.tuan4;
+
 import java.util.Scanner;
 
 public class Bai2Lab4 {

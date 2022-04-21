@@ -1,14 +1,23 @@
-public class Node {
-    Goods data;
-    Node next;
+package com.thaivv2004110036.kiemtracuoiky;
 
-    public Node(Goods d) {
-        data = d;
+public class Node {
+    Goods goods;
+    Node next;
+    String MaHang;
+    Integer GiaHang;
+
+    public Node(){
+        goods = null;
         next = null;
     }
 
-    public Node(Goods d, Node n) {
-        data = d;
-        next = n;
+    public Node(Goods newGoods) {
+        goods = newGoods;
+        next = null;
+    }
+
+    public Node(Goods newGoods, Node node) {
+        goods = newGoods;
+        next = node;
     }
 }

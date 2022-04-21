@@ -1,3 +1,4 @@
+package com.thaivv2004110036.tuan7;
 
 public class LinkedList {
     Node head = null;

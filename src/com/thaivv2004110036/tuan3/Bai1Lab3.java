@@ -1,4 +1,4 @@
-package tuan3;
+package com.thaivv2004110036.tuan3;
 
 import java.util.Scanner;
 

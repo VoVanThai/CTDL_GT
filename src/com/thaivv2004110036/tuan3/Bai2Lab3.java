@@ -1,4 +1,4 @@
-package tuan3;
+package com.thaivv2004110036.tuan3;
 
 public class Bai2Lab3 {
     public static void main(String[] args) {
